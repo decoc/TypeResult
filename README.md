@@ -91,3 +91,11 @@ results
 var successes = results.FilterSuccess();
 
 ```
+
+## UPM Package
+
+You can add `https://github.com/decoc/TypeResult.git?path=Assets/Plugins` to Package Manager
+
+## Licenses
+
+This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE.txt) file for details.
