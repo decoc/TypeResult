@@ -1,7 +1,7 @@
 {
   "name":"com.decoc.typeresult",
   "displayName": "TypeResult",
-  "version:": "1.0.0",
+  "version": "1.0.0",
   "unity": "2018.4",
   "description": "TypeResult is a utility for easily describing results with values ​​and errors like `Either Monado`.",
   "license": "MIT"
